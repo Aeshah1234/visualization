@@ -10,18 +10,26 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      I have selected my examples from: https://datavizproject.com/inspiration/
+      
+      A Good Visualization: http://www.washingtonpost.com/business/economy/retirement-getting-further-away/2012/07/10/gJQAnVOjbW_graphic.html 
+      
+      I consider this example to be a good exercise of visualization techniques because of the following factors: 
+      1.	The visual avoids excessive decoration and provides a clean set of visual elements. Most of the visual space is devoted to communication information rather than unnecessary distractions. The numbers (ages) are clear and therefore there’s emphasis on following them to build the story/narrative the visual is attempting to convey. 
+      2.	Clear communication of the main message. One can look at the graph and understand the main point when reading the caption. The layout and visual progression are appropriate for the subject topic. I would ask to improve the title to further highlight the key message, which is that the USA is lagging behind in terms of retirement age. This makes the plot quite accessible for a diverse audience. This is quite useful because this was published in a newspaper, which takes into account that its readership is diverse. 
+      
+      A Bad Visualization: Source: https://plot.ly/~RPlotBot/2823.embed 
+      
+      I consider this example to be a poor exercise of visualization techniques for the following reasons: 
+      1.	There are no messages to suggest what this visual is communicating. Perhaps to a trained eye within a specific field, this would appropriate and understandable. However, for the laypeople, it is difficult to infer the topic. Context and audience matter more so for this particular visual. 
+      2.	The chart is also complex and I am wondering if there’s a need for 3D and whether the same information could be delivered in 2D and less colors. The arrangement of data points limits effective comparison between values, unlike the retirement age visual, where the data points were clear. According to general principles of effective visualization, charts should prioritize clarity, simplicity, and ease of interpretation. This visualization does not deliver on these areas. 
+      
 
-
-
-
-
-
-
-      ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+    Good Example: one improvement already mentioned is to provide a more appealing and suggestive title to better communicate the message. Furthermore, if this were to be printed, colors will not matter as much. However, if this was only published online, I would suggest to increase the variation between the countries or at the very least make the color of the USA more distinct to further emphasize the difference. 
+
+    Bad Example: To start with, this visual would benefit significantly from a title and a key messages that communicate the main takeaway. In addition, I would consider switching the design to a simpler design (if possible for this dataset). Even if the dataset can only be plotted via a 3D diagram, I would attempt to find a way to reduce complexity and provide a clearer version that achieves the same purposes and maintains data integrity. 
 
 
 
